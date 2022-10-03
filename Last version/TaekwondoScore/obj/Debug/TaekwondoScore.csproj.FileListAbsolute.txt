@@ -1,0 +1,386 @@
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\App.g.cs
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\App.baml
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+C:\Users\user\Desktop\c#\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\1\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\TaekwondoScoreSolution\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\TaekwondoScoreSolution - Copy\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\2\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\3\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\4\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\5\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\6\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Last 1\TaekwondoScore\obj\Debug\TaekwondoScore_Content.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\bin\Debug\TaekwondoScore.exe.config
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\bin\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\bin\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\bin\Debug\MaterialDesignColors.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\bin\Debug\MaterialDesignColors.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\ListPages\WinBlue.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\ListPages\WinRed.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\MainWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\Windows\SettingsWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\Windows\TimerWindow.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\App.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore_Content.g.cs
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore_MarkupCompile.lref
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\App.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\ListPages\WinBlue.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\ListPages\WinRed.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\MainWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\Windows\ChangeNameWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\Windows\SettingsWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\Windows\TimerWindow.baml
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore.g.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore.Properties.Resources.resources
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.GenerateResource.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CoreCompileInputs.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.CopyComplete
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore.exe
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore.pdb
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.AssemblyReference.cache
+D:\TAekwondo\Deyarli tayyor\2 - Copy\2\Setup 1\TaekwondoScore\obj\Debug\TaekwondoScore.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,387 @@
+﻿<Window x:Class="TaekwondoScore.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:md="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:TaekwondoScore"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Closing="Window_Closing"
+        Closed="Window_Closed"
+        KeyDown="Window_KeyDown"
+        KeyUp="Window_KeyUp"   
+        PreviewKeyDown="Window_PreviewKeyDown"
+        WindowStartupLocation="CenterScreen"
+        Title="Taekwondo Score" MinHeight="750" MinWidth="1100" Height="750" Width="1100">
+    <Window.Resources>
+
+        <Style  TargetType="Button">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border Background="{TemplateBinding Background}" >
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="White"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </Window.Resources>
+
+
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonOpenMenu">
+            <BeginStoryboard Storyboard="{StaticResource OpenMenu}">
+                
+            </BeginStoryboard>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonCloseMenu">
+            <BeginStoryboard Storyboard="{StaticResource CloseMenu}">
+                
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="180"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        
+        
+        <Border Grid.RowSpan="1" Grid.Column="1" Grid.ColumnSpan="2"  Background="Blue">
+            <TextBlock x:Name="nameBlueTxt" Text="CHON" FontSize="50"  HorizontalAlignment="Center" Foreground="White" FontWeight="Bold" TextWrapping="Wrap"/>
+        </Border>
+
+        <Border Grid.RowSpan="1" Grid.Column="3" Grid.ColumnSpan="2" Background="Red">
+            <TextBlock x:Name="nameRedTxt" Text="XON" FontSize="50" HorizontalAlignment="Center" Foreground="White" FontWeight="Bold"/>
+        </Border>
+                
+        <Label x:Name="tabloBlueLbl" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" FontSize="250" Content="0"/>
+        <Label x:Name="tabloRedLbl" Grid.Row="0" Grid.Column="3" Grid.ColumnSpan="2" FontSize="250" Content="0"/>
+
+        <Button x:Name="tabloBluePlusBtn" Style="{StaticResource tablobluebtn}" Grid.Column="1" Grid.ColumnSpan="2"  Height="105" Click="tabloBluePlusBtn_Click" 
+                BorderThickness="0" Margin="0 70" VerticalAlignment="Top">
+        </Button>
+       
+        <Button x:Name="tabloBlueMinusBtn" Style="{StaticResource tablobluebtn}" Grid.Column="1" Grid.ColumnSpan="2"  Height="145" Click="tabloBlueMinusBtn_Click"
+                BorderThickness="0" VerticalAlignment="Bottom" >
+        </Button>
+        <Label x:Name="RoundWinBluelbl" Content="" FontSize="70" Grid.Column="1" Grid.ColumnSpan="2" VerticalAlignment="Bottom" />
+
+        <Button x:Name="tabloRedPlusBtn" Style="{StaticResource tabloredbtn}" Grid.Column="3" Grid.ColumnSpan="2"  Height="105" Click="tabloRedPlusBtn_Click" 
+                BorderThickness="0" Margin="0 70" VerticalAlignment="Top">
+        </Button>
+        
+
+        <Button x:Name="tabloRedMinusBtn" Style="{StaticResource tabloredbtn}" Grid.Column="3" Grid.ColumnSpan="2"  Height="145"  Click="tabloRedMinusBtn_Click"
+                BorderThickness="0" VerticalAlignment="Bottom" >
+        </Button>
+        <Label x:Name="RoundWinRedlbl" Content="" FontSize="70" Grid.Column="3" Grid.ColumnSpan="2" VerticalAlignment="Bottom" />
+
+        <Border Grid.Column="2" Grid.ColumnSpan="2" Width="80" Height="150" Background="Yellow" VerticalAlignment="Top" Margin="0 15" CornerRadius="5" BorderThickness="3" BorderBrush="Black">
+            <StackPanel>
+                <TextBlock x:Name="round1Txb" Text="1" FontSize="55" HorizontalAlignment="Center" FontWeight="Bold"/>
+                <TextBlock Text="_" FontSize="90" HorizontalAlignment="Center"  Margin="0 -105"/>
+                <TextBlock x:Name="round2Txb" Text="3" FontSize="55" HorizontalAlignment="Center" FontWeight="Bold"/>
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Column="2" Grid.ColumnSpan="2" Width="250" Height="100" Background="Black" VerticalAlignment="Bottom"  CornerRadius="5" BorderThickness="3"  BorderBrush="Yellow">
+            <TextBlock x:Name="matchTxb" Text="101" Foreground="White" FontSize="100" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold"/>
+        </Border>
+        
+        <Border Grid.Column="2" Grid.ColumnSpan="2" Width="150" Height="50" Background="Black" VerticalAlignment="Bottom"  CornerRadius="5" BorderThickness="3"  BorderBrush="Yellow" Margin="0 0 0 98">
+            <TextBlock Text="MATCH" Foreground="White" FontSize="32" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold"/>
+        </Border>
+
+        <Border Grid.Column="1" Grid.ColumnSpan="4" Grid.Row="1"  BorderThickness="0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Rectangle Grid.Row="1" Grid.ColumnSpan="7">
+                    <Rectangle.Fill>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                            <GradientStop Color="#4E90E6" Offset="0.5"/>
+                            <GradientStop Color="#FF5252" Offset="0.5"/>
+                        </LinearGradientBrush>
+                    </Rectangle.Fill>
+                </Rectangle>
+                <Border Grid.ColumnSpan="2">
+                    <StackPanel >
+                        <TextBlock Text="Gam-jeom" HorizontalAlignment="Center" FontSize="40" FontWeight="DemiBold"/>
+                        <Label Foreground="Black" x:Name="blueGamlbl" Content="0" FontSize="80" Margin="0 -10"  />
+                    </StackPanel>
+                </Border>
+               
+                <Border x:Name="timeBorder" Grid.Column="2" Grid.ColumnSpan="3" Background="Yellow">
+                    <StackPanel>
+                        <Label x:Name="breakTimeLbl" Content="Time" HorizontalAlignment="Center" FontSize="50" FontWeight="Bold" Foreground="Red"/>
+                        <Button x:Name="StartStopBtn" Content="00:00" FontWeight="DemiBold" Foreground="Red" Background="Yellow" FontSize="80" Margin="0 -15" Click="StartStopBtn_Click"/>
+                    </StackPanel>
+                </Border>
+                
+                <Border Grid.Column="5" Grid.ColumnSpan="2">
+                    <StackPanel >
+                        <TextBlock Text="Gam-jeom" HorizontalAlignment="Center" FontSize="40" FontWeight="DemiBold"/>
+                        <Label x:Name="redGamlbl" Content="0" FontSize="80"  Foreground="Black" Margin="0 -10" />
+                    </StackPanel>
+                </Border>
+            </Grid>
+            
+            
+        </Border>
+        <Grid Grid.RowSpan="2" Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <!--<Button>
+                <Image Source="Images/taekwondo_blue.png"/>
+            </Button>-->
+
+            <Grid  >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Button x:Name="blueHeadTopBtn" Grid.ColumnSpan="2" BorderBrush="{x:Null}" VerticalAlignment="Bottom" Margin="0 12 0 -2" Click="blueHeadTopBtn_Click" KeyDown="blueHeadTopBtn_KeyDown">
+                    <Image Source="Images/head_top.png"  />
+                </Button>
+                <Button x:Name="blueHeadLeftBtn" Grid.Row="1" Grid.RowSpan="2" BorderBrush="{x:Null}" Background="{x:Null}" HorizontalAlignment="Right" Margin="0 0 -1 0" Click="blueHeadLeftBtn_Click">
+                    <Image Source="Images/head_left.png" />
+                </Button>
+                <Button x:Name="blueHeadRightBtn" Grid.Row="1" Grid.RowSpan="2" Grid.Column="1" BorderBrush="{x:Null}" Background="{x:Null}" HorizontalAlignment="Left" Margin="0 0 -1 0" Click="blueHeadRightBtn_Click">
+                    <Image Source="Images/head_right.png"  />
+                </Button>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Grid  >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Button x:Name="blueProtectTopBtn" Grid.ColumnSpan="2" BorderBrush="{x:Null}" Background="{x:Null}" VerticalAlignment="Bottom" Click="blueProtectTopBtn_Click" >
+                        <Image Source="Images/protector_top.png" />
+                    </Button>
+                    <Button x:Name="blueProtectRightBtn" Grid.Row="1" Grid.Column="1" BorderBrush="{x:Null}" Background="{x:Null}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-3 -3 3 0" BorderThickness="0" Click="blueProtectRightBtn_Click">
+                        <Image Source="Images/protector_right.png" />
+                    </Button>
+                    <Button x:Name="blueProtectLeftBtn" Grid.Row="1"   Background="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="3 -3 -3 0"  Click="blueProtectLeftBtn_Click">
+                        <Image Source="Images/protector_left.png"  />
+                    </Button>
+                </Grid>
+            </Grid>
+
+            <Grid Grid.Row="2">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+
+                <Button x:Name="blueFistLeftBtn" BorderBrush="{x:Null}" Background="{x:Null}" HorizontalAlignment="Right" Margin="0 2 -3 0"  Click="blueFistLeftBtn_Click">
+                    <Image Source="Images/blue_fist_left.png"  />
+                </Button>
+                <Button x:Name="blueFistMiddBtn" Grid.Column="1" BorderBrush="{x:Null}" Background="{x:Null}" Click="blueFistMiddBtn_Click">
+                    <Image Source="Images/blue_fist_right.png" />
+                </Button>
+                <Button x:Name="blueRightBtn" Grid.Column="2" Background="{x:Null}" HorizontalAlignment="Left" Margin="-1 5 0 5" Click="blueRightBtn_Click" >
+                    <Image Source="Images/blue_fist_right2.png"  />
+                </Button>
+            </Grid>
+
+            <Button x:Name="timeOutBlueBtn" Grid.Row="3" Click="timeOutBlueBtn_Click">
+                <Image Source="Images/taekwondo_blue time.png"/>
+            </Button>
+            <Button x:Name="plusBtn" Grid.Row="4" Click="plusBtn_Click">
+                <Image Source="Images/add_blue.png"/>
+            </Button>
+            <Button x:Name="minusBtn" Grid.Row="5" Click="minusBtn_Click">
+                <Image Source="Images/minus_blue.png"/>
+            </Button>
+        </Grid>
+        <Grid Grid.RowSpan="2" Grid.Column="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <Grid  >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Button x:Name="redHeadTopBtn" Grid.ColumnSpan="2" BorderBrush="{x:Null}" Background="{x:Null}" VerticalAlignment="Bottom" Margin="0 12 0 -2" Click="redHeadTopBtn_Click">
+                    <Image Source="Images/head_red_top.png"  />
+                </Button>
+                <Button x:Name="redHeadLeftBtn" Grid.Row="1" Grid.RowSpan="2" BorderBrush="{x:Null}" Background="{x:Null}" HorizontalAlignment="Right" Margin="0 0 -1 0" Click="redHeadLeftBtn_Click">
+                    <Image Source="Images/head_red_left.png" />
+                </Button>
+                <Button x:Name="redHeadRightBtn" Grid.Row="1" Grid.RowSpan="2" Grid.Column="1" BorderBrush="{x:Null}" Background="{x:Null}" HorizontalAlignment="Left" Margin="0 1 -1 0" Click="redHeadRightBtn_Click">
+                    <Image Source="Images/head_red_right.png"  />
+                </Button>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Grid  >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Button x:Name="redProtectTopBtn" Grid.ColumnSpan="2" BorderBrush="{x:Null}" Background="{x:Null}" VerticalAlignment="Bottom" Click="redProtectTopBtn_Click" >
+                        <Image Source="Images/protector_red_top.png" />
+                    </Button>
+                    <Button x:Name="redProtectLeftBtn" Grid.Row="1" Grid.Column="1" BorderBrush="{x:Null}" Background="{x:Null}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="-3 -3 3 0" BorderThickness="0" Click="redProtectLeftBtn_Click">
+                        <Image Source="Images/protector_red_left.png" />
+                    </Button>
+                    <Button x:Name="redProtectRightBtn" Grid.Row="1"   Background="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="3 -3 -3 0" Click="redProtectRightBtn_Click" >
+                        <Image Source="Images/protector_red_right.png"  />
+                    </Button>
+                </Grid>
+            </Grid>
+
+            <Grid Grid.Row="2">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+
+                <Button x:Name="redFistLeftBtn"  BorderBrush="{x:Null}" Background="{x:Null}" HorizontalAlignment="Right" Margin="0 2 -3 0" Click="redFistLeftBtn_Click" >
+                    <Image Source="Images/red_fist_left.png"  />
+                </Button>
+                <Button x:Name="redFistMiddBtn"  Grid.Column="1" BorderBrush="{x:Null}" Background="{x:Null}" Click="redFistMiddBtn_Click">
+                    <Image Source="Images/red_fist_middle.png" />
+                </Button>
+                <Button x:Name="redFistRightBtn" Grid.Column="2" Background="{x:Null}" HorizontalAlignment="Left" Margin="-2 9 0 9" Click="redFistRightBtn_Click" >
+                    <Image Source="Images/red_fist_right.png"  />
+                </Button>
+            </Grid>
+          
+            <Button x:Name="timeOutRedBtn" Grid.Row="3" Click="timeOutRedBtn_Click">
+                <Image Source="Images/taekwondo_red time.png"/>
+            </Button>
+            <Button x:Name="redPlusBtn" Grid.Row="4" Click="redPlusBtn_Click">
+                <Image Source="Images/add_red.png"/>
+            </Button>
+            <Button x:Name="redMinusBtn" Grid.Row="5" Click="redMinusBtn_Click">
+                <Image Source="Images/minus_red.png"/>
+            </Button>
+        </Grid>
+        <Grid x:Name="GridMenu" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="6" Background="Green" >
+
+            <Button x:Name="ButtonOpenMenu" Style="{StaticResource bottomgreenbtn}" BorderBrush="{x:Null}" BorderThickness="0" Click="ButtonOpenMenu_Click" Background="Green">
+
+            </Button>
+
+        </Grid>
+
+        <Grid x:Name="MenuGrid" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6" Background="White" Visibility="Collapsed"  >
+
+            <StackPanel>
+
+                <Button Height="35" x:Name="ButtonCloseMenu" Style="{StaticResource bottomgreenbtn}" BorderBrush="{x:Null}" BorderThickness="0" Click="ButtonCloseMenu_Click" Background="Green">
+
+                </Button>
+                
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+
+                    <Button x:Name="WinBlueBtn" Height="120" Margin="2 20 2 -5" Click="WinBlueBtn_Click">
+                        <Image Source="Images/win_blue.png"/>
+                    </Button>
+
+                    <Button x:Name="ClearBtn" Height="120" Margin="35 16 2 -5" Click="ClearBtn_Click">
+                        <Image Source="Images/img.png"/>
+                    </Button>
+
+                    <Button x:Name="NameLogoBtn" Height="120" Margin="35 16 2 -5" Click="NameLogoBtn_Click">
+                        <Image Source="Images/namelogo.png"/>
+                    </Button>
+
+                    <Button x:Name="FinishRoundBtn" Height="120" Margin="35 16 2 -5" Click="FinishRoundBtn_Click" >
+                        <Image Source="Images/end.png"/>
+                    </Button>
+                    
+                    <Button x:Name="SettingsBtn" Height="120" Margin="35 16 2 -5" Click="SettingsBtn_Click">
+                        <Image Source="Images/settings.png"/>
+                    </Button>
+
+                    <Button x:Name="WinRedBtn" Height="120" Margin="35 16 2 -5" Click="WinRedBtn_Click">
+                        <Image Source="Images/win_red.png"/>
+                    </Button>
+
+                </StackPanel>
+                
+            </StackPanel>
+                
+            
+          
+        </Grid>
+
+        <Grid x:Name="MainGrid" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="6" Grid.RowSpan="3">
+
+        </Grid>
+
+    </Grid>
+</Window>
